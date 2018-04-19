@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	overflow:hidden;
+	width: 540px;
+	margin-left: auto ;
+  	margin-right: auto ;
+}
+
+.header {
+	height:100px;
+	width:540px;
+	background-color:#0B615E;
+}
+
+h1 {
+	text-align:center;
+	margin-bottom: 0;
+	font-weight: bold;
+	font-size:36px;
+}
+
+.menu {
+	background-color: #EEEEEE;
+	height: 200px;
+	width: 100px;
+	float: left;
+}
+
+.content {
+	background-color:#EEEEEE;
+	width:540px;
+	height:350px;
+	float:center;
+	text-align:left;
+	font-size:14px;
+}
+.con1{
+	color:#DF0101
+}
+.con2{
+	width: 540px;
+	float: center;
+	text-align: right;
+	font-size: 14px;
+
+	color:#DF0101
+	background-color:#EEEEEE;
+}
+c1{
+	text-align:center;
+	margin-bottom: 0;
+	font-weight: bold;
+	font-size:18px;
+	font-color:#000;
+}
+.footer {
+	background-color:#0B615E;
+	clear:both;
+	text-align:center;
+}
+/* CSS Document */
+#container .con2 table tr td {
+	text-align: center;
+}
